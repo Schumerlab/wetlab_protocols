@@ -1,0 +1,3 @@
+- See Reverse Transcription Protocol.docx in the Protocols folder in Box or email smbanerj@stanford.edu for the protocol and all necessary reagents and consumables.
+- Quantify cDNA with dsDNA qubit kit
+- Small amounts (~2ng/ul) are common for cDNA derived from fin clips and perfectly fine for qPCR.
