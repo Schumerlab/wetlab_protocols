@@ -17,7 +17,7 @@
 <a id="pyrosequencing"></a>
 ## Pyrosequencing Resources
 [Pyrosequencing primer design](pyrosequencing_primer_design.md)<br>
-Pyrosequencing primer ordering<br>
+[Pyrosequencing primer ordering](pyroseq_primer_ordering.md)<br>
 Pyrosequencing at Stanford<br>  
 
 <a id="rna-extraction-and-rt"></a>
