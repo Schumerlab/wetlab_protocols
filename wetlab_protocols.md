@@ -29,7 +29,7 @@ Washing flow cells<br>
 
 <a id="rna-extraction-and-rt"></a>
 ## RNA Extraction and Reverse Transcription 
-RNA extraction<br>
+[RNA extraction](RNA_extraction.md)<br>
 Reverse transcription<br>   
 
 <a id="qPCR"></a>
