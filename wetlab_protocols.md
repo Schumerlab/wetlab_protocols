@@ -25,6 +25,7 @@
 ## ONT Sequencing 
 Ligation sequencing<br> 
 Native Barcoding Kit<br> 
+Washing flow cells<br> 
 
 <a id="rna-extraction-and-rt"></a>
 ## RNA Extraction and Reverse Transcription 
