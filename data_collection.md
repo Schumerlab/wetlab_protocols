@@ -1,0 +1,4 @@
+- Each sample of interest needs 3 wells of gene of interest reactions and 3 wells of housekeeping/single-copy gene
+- The reaction recipe is the same as described in the qpcr primer efficiency testing section
+- Run your plate at the appropriate annealing temperature with the CFX_2stepAmp+meltcurve.prcl cycle. If you need the data fast you can use a cycle without the melt curve step.
+- When your data is finished, make sure the standard deviation is low for triplicates. We usually exclude an outlier if standard deviation is greater than 0.2. If there is no clear outlier, or if excluding an outlier does not decrease standard deviation to below 0.2 then the sample should be re-run or excluded from analysis.
