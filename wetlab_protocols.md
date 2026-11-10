@@ -16,7 +16,7 @@
 
 <a id="pyrosequencing"></a>
 ## Pyrosequencing Resources
-Pyrosequencing primer design<br>
+[Pyrosequencing primer design](pyrosequencing_primer_design.md)<br>
 Pyrosequencing primer ordering<br>
 Pyrosequencing at Stanford<br>  
 
