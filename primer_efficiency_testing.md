@@ -5,7 +5,7 @@ test efficiency of all primers that amplified as expected! It can be tricky to g
 - Make sure it's okay to use the qPCR machine in the Fraser lab
 - To test efficiency you need to run triplicates of each primer on at least 6 serial dilutions of cDNA or gDNA. If the DNA is too concentrated you will need to dilute it. 10ng/ul seems to be fine but less is also fine!
 the recipe for one qPCR reaction is 5ul of iQ sybr green supermix + 3.4ul of water + 0.3ul of 10uM forward primer + 0.3ul of 10uM reverse primer + 1ul of DNA
-efa1 a swordtail housekeeping primer we have in the lab is efficient at 62C so I usually start there for annealing temperature. Use the cycle CFX_2stepAmp+meltcurve.prcl.
+- efa1 a swordtail housekeeping primer we have in the lab is efficient at 62C so I usually start there for annealing temperature. Use the cycle CFX_2stepAmp+meltcurve.prcl.
 - Check in the biorad software that there is a single peak in the melt curve analysis for each primer. If there is more than one peak per primer, then the primer cannot be used at the this temperature.
 - Use this template to calculate efficiency /Box/Schumer_lab_resources/Extractions_and_library_preps/qPCR data/efficiency_calculation_template. Make sure the standard deviation between triplicates is low. Exclude outliers from analysis.
 - Efficiency should be between 0.9-1.10. If your efficiency is too high, increase your annealing temperature. If your efficiency is too low, decrease your annealing temperature.
