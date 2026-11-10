@@ -46,7 +46,7 @@
 
 <a id="illumina-sequencing"></a>
 ### Illumina sequencing resources (TN5)
-Which indices should I use?<br>   
+[Which indices should I use?](choosing_indices.md)<br>   
 [Pooling libraries for sequencing](pooling_libraries.md)<br>
 [Submitting libraries for sequencing](submitting_libraries.md)<br>  
 
