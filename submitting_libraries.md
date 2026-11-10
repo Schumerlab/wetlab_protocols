@@ -20,7 +20,7 @@ leave PO info blank (Pam has an account set up)
 > **index sequences**: one row for each library in a pool, Admera can use either the sequences or the reverse complements as long as you adjust the column heading to say which you are providing. <br>
 
 
-- if this is your first time shipping somehting using dry ice take the dry ice training on axess (EHS-PROG-2700)
+- if this is your first time shipping something, using dry ice take the dry ice training on axess (EHS-PROG-2700)
 - send Pam the filled out sheet and request a fedex overnight shipping label for a package with about 3kg of dry ice that is about 5 lbs and addressed to:
 > Admera Health, LLC
 > 126 Corporate Boulevard
