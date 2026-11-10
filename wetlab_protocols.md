@@ -34,7 +34,7 @@ Washing flow cells<br>
 
 <a id="qPCR"></a>
 ## qPCR 
-Primer efficiency testing<br>
+[Primer efficiency testing](primer_efficiency_testing.md)<br>
 Data collection<br>  
 
 <a id="wgs-resources"></a>
