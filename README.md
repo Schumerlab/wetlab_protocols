@@ -52,7 +52,7 @@ Which indices should I use?<br>
 
 <a id="hmw-DNA-extractions"></a>
 ### HMW DNA Extractions 
-NEB Monarch Tissue HMW DNA Extraction<br> 
+[NEB Monarch Tissue HMW DNA Extraction](NEB_HMW_DNA_Extraction.md)<br> 
 
 <a id="cell-culture"></a>
 ### Cell Culture 
