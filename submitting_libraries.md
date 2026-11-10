@@ -5,8 +5,8 @@ We do most of our sequencing at Admera health. [1](https://www.admerahealth.com/
 - make sure that your library or pooled library is within the size range you want using the tapestation and is around 4nM using the Qubit and the nM conversion spreadsheet in box (https://stanford.app.box.com/file/418914060874)
 - send 10 ul to the sequencing facility and keep the rest in the -20C freezer here
 - fill out the admera health form with
-> Delivery: Your name/Schumer Lab, 371 Jane Stanford Way, Schumer Lab Room 318, Stanford, CA 94305
-> Bill to: Pamela Hung, 371 Jane Stanford Way, Stanford, CA 94305
+> Delivery: Your name/Schumer Lab, 371 Jane Stanford Way, Schumer Lab Room 318, Stanford, CA 94305 <br>
+> Bill to: Pamela Hung, 371 Jane Stanford Way, Stanford, CA 94305 <br> 
 leave PO info blank (Pam has an account set up)
 > Service: Copy description from quote you recieved
 > kits: none (we have already done the library prep)
