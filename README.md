@@ -24,9 +24,9 @@
 
 <a id="ontsequencing"></a>
 ### ONT Sequencing 
-Ligation sequencing<br> 
-Native Barcoding Kit<br> 
-Washing flow cells<br> 
+[Ligation sequencing](LSK.md)<br> 
+[Native Barcoding Kit](NBD.md)<br> 
+[Washing flow cells](Washing_flow_cells.md)<br> 
 
 <a id="rna-extraction-and-rt"></a>
 ### RNA Extraction and Reverse Transcription 
