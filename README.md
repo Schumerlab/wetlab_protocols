@@ -48,7 +48,7 @@ Washing flow cells<br>
 ### Illumina sequencing resources
 Which indices should I use?<br>   
 [Pooling libraries for sequencing](pooling_libraries.md)<br>
-Submitting libraries for sequencing<br>  
+[Submitting libraries for sequencing](submitting_libraries.md)<br>  
 
 <a id="hmw-DNA-extractions"></a>
 ### HMW DNA Extractions 
