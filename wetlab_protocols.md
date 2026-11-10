@@ -1,12 +1,13 @@
 # Table of Contents 
 1. [Sanger Sequencing](#sanger-sequencing)
-2. [Pyrosequencing](#pyrosequencing) 
-3. [RNA Extraction](#rna-extraction-and-rt)
-4. [qPCR](#qPCR) 
-5. [low coverage whole genome sequencing resources](#wgs-resources) 
-6. [Illumina sequencing resources](#illumina-sequencing) 
-7. [HMW DNA Extractions](#hmw-DNA-extractions) 
-8. [Cell Culture](#cell-culture)
+2. [Pyrosequencing](#pyrosequencing)
+3. [ONT Sequencing](#ontsequencing)
+4. [RNA Extraction](#rna-extraction-and-rt)
+5. [qPCR](#qPCR) 
+6. [low coverage whole genome sequencing resources](#wgs-resources) 
+7. [Illumina sequencing resources](#illumina-sequencing) 
+8. [HMW DNA Extractions](#hmw-DNA-extractions) 
+9. [Cell Culture](#cell-culture)
 
 
 <a id="sanger-sequencing"></a>
@@ -19,6 +20,11 @@
 [Pyrosequencing primer design](pyrosequencing_primer_design.md)<br>
 [Pyrosequencing primer ordering](pyroseq_primer_ordering.md)<br>
 [Pyrosequencing at Stanford](pyroseq_stanford.md)<br>  
+
+<a id="ontsequencing"></a>
+## ONT Sequencing 
+Ligation sequencing<br> 
+Native Barcoding Kit<br> 
 
 <a id="rna-extraction-and-rt"></a>
 ## RNA Extraction and Reverse Transcription 
