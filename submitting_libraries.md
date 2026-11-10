@@ -18,3 +18,18 @@ leave PO info blank (Pam has an account set up)
 > **insert size including adapters**: "total library size: x bp" using tapestation peak size <br>
 > **Phix %**: 1% is a standard spike-in amount. the purpose of Phix is to serve as a control to make sure the sequencing reaction worked. It can also help balance indixes. However, the more Phix you spike in, the less data you will get <br>
 > **index sequences**: one row for each library in a pool, Admera can use either the sequences or the reverse complements as long as you adjust the column heading to say which you are providing. <br>
+
+
+- if this is your first time shipping somehting using dry ice take the dry ice training on axess (EHS-PROG-2700)
+- send Pam the filled out sheet and request a fedex overnight shipping label for a package with about 3kg of dry ice that is about 5 lbs and addressed to:
+> Admera Health, LLC
+> 126 Corporate Boulevard
+> South Plainfield, NJ 07080
+> Attn: Biopharma Services
+
+- Make sure your 1.5ml tubes of library or library pools are secured either in a 50ml conical tube with kimwipes or a taped sample box and place them in a styrofoam cooler (there should be some stashed above the glassware cabinet) with dry ice (on the second floor of gilbert)
+- ship the cooler and a printed out copy of the sample submission sheet in a cardboard box with all old shipping labels/barcodes removed.
+- print out three copies of the fedex label pam sends to you.
+- attach one label to box using the fedex shipping pockets in the mail room and place a dry ice sticker (also in mail room) on the box
+- leave box on fedex table and 2 extra copies of shipping label in the folder on the table.
+- fedex pick up is at 2:30
