@@ -1,0 +1,4 @@
+- The low coverage whole genome sequencing we do in the lab requires 5ng of DNA per sample that should be 10kb or above.
+- We use the Agencourt DNAdvance kit (Beckman Coulter A48705) kit according to manufacturer suggestions except in half reactions.
+- See DNA_extraction_using_AgencourtDNAdvance_kit_halfrxns_smb.docx in the Protocols folder in Dropbox or email baczenas@stanford.edu for the protocol and all necessary reagents and consumables.
+- Our standard format can be found in /Swordtail dropbox/Schumer_lab_resources/Extractions_and_library_preps/Extractions
