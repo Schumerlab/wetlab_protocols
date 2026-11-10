@@ -21,8 +21,8 @@ Modifications from Tris Dodge (Schumer Lab)
 -Load all DNA on promethion flow cell
 
 Modifications from Nathan Gamarra (Altemose Lab)
--Pass through HMW DNA 30X through a 1mL syringe with 26G needle
--Half volumes of all end-repear step components (same total amount of DNA) in the end repair step (done to save reagents)
+-Pass through HMW DNA 3-5X through a 1mL syringe with 26G needle
+-Half volumes of all end-repair step components (same total amount of DNA) in the end repair step (done to save reagents)
 -Do not bead purify end repaired DNA. Instead, dilute it up to 60µL with MQ water and use that as input for adapter ligation
 -Extend adapter ligation to 30 minutes
 -Bead purify as stated washing with LFB buffer
