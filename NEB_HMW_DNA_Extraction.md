@@ -1,0 +1,3 @@
+- The PacBio or Nanopore ONT whole genome sequencing we do in the lab requires ~2-5ug of DNA per sample that should be greater than 60kb.
+- We use the NEB Monarch HMW DNA tissue kit. (NEB T3060)
+- See NED Monarch HMW Extraction_Sep2023 in the Protocols folder in Dropbox or email baczenas@stanford.edu for the protocol and all necessary reagents and consumables.
