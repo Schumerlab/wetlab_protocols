@@ -1,0 +1,4 @@
+- See the choosing an index section of this wiki to select an index. Before prepping a library you should know how many libraries this one will be pooled with so you can make sure the pool has balanced indexes
+- See Tn5_Library_Prep_2019_combined_protocol_smb.docx in the Protocols folder in Box or email smbanerj@stanford.edu for the protocol and all necessary reagents and consumables.
+- Qubit and tapestation your library. See D1000 TapeStation Protocol.docx in the Protocols folder in Box or email smbanerj@stanford.edu for the protocol and all necessary reagents and consumables for the tapestation.
+- enter library and DNA extraction information into the lab inventory /Box/Schumer_lab_resources/Extractions_and_library_preps/Schumer_lab_Inventory_Log.xlsx
