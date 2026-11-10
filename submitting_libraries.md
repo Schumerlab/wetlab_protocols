@@ -1,5 +1,6 @@
 ## Submitting libraries for sequencing 
-We do most of our sequencing at Admera health. [1](https://www.admerahealth.com/genomics-and-bioinformatics-2/)
+We do most of our sequencing at Admera health. [1](https://www.admerahealth.com/genomics-and-bioinformatics-2/) <br>
+
 **Submitting libraries to Admera**
 - make sure that your library or pooled library is within the size range you want using the tapestation and is around 4nM using the Qubit and the nM conversion spreadsheet in box (https://stanford.app.box.com/file/418914060874)
 - send 10 ul to the sequencing facility and keep the rest in the -20C freezer here
