@@ -40,8 +40,8 @@ Washing flow cells<br>
 <a id="wgs-resources"></a>
 ## low coverage whole genome sequencing resources 
 [DNA extraction](dna_extraction.md)<br>
-DNA quantification and dilution<br>
-Library prep<br>  
+[DNA quantification and dilution](dna_quant_and_dilution.md)<br>
+[Library prep](library_prep.md)<br>  
 
 <a id="illumina-sequencing"></a>
 ## Illumina sequencing resources
