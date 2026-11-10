@@ -12,7 +12,7 @@
 <a id="sanger-sequencing"></a>
 ## Sanger Sequencing Resources 
 [Primer Design](primer_design.md)<br>
-Sanger Sequencing<br>  
+[Sanger Sequencing](sanger_sequencing.md)<br>  
 
 <a id="pyrosequencing"></a>
 ## Pyrosequencing Resources
