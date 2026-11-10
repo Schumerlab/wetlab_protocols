@@ -46,7 +46,7 @@ Washing flow cells<br>
 <a id="illumina-sequencing"></a>
 ## Illumina sequencing resources
 Which indices should I use?<br>   
-Pooling libraries for sequencing<br>
+[Pooling libraries for sequencing](pooling_libraries.md)<br>
 Submitting libraries for sequencing<br>  
 
 <a id="hmw-DNA-extractions"></a>
