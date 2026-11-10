@@ -18,7 +18,7 @@
 ## Pyrosequencing Resources
 [Pyrosequencing primer design](pyrosequencing_primer_design.md)<br>
 [Pyrosequencing primer ordering](pyroseq_primer_ordering.md)<br>
-Pyrosequencing at Stanford<br>  
+[Pyrosequencing at Stanford](pyroseq_stanford.md)<br>  
 
 <a id="rna-extraction-and-rt"></a>
 ## RNA Extraction and Reverse Transcription 
