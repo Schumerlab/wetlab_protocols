@@ -1,1 +1,1 @@
-We do Sanger sequencing through the [Azenta](https://www.azenta.com/)
+We do Sanger sequencing through [Azenta](https://www.azenta.com/).
