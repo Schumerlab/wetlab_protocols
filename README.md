@@ -45,7 +45,7 @@
 [Library prep](library_prep.md)<br>  
 
 <a id="illumina-sequencing"></a>
-### Illumina sequencing resources
+### Illumina sequencing resources (TN5)
 Which indices should I use?<br>   
 [Pooling libraries for sequencing](pooling_libraries.md)<br>
 [Submitting libraries for sequencing](submitting_libraries.md)<br>  
