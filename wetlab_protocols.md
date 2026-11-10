@@ -35,7 +35,7 @@ Washing flow cells<br>
 <a id="qPCR"></a>
 ## qPCR 
 [Primer efficiency testing](primer_efficiency_testing.md)<br>
-Data collection<br>  
+[Data collection](data_collection.md)<br>  
 
 <a id="wgs-resources"></a>
 ## low coverage whole genome sequencing resources 
