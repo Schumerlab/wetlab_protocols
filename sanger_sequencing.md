@@ -1,1 +1,1 @@
-We do Sanger sequencing through the [PAN facility on campus](https://cmgm.stanford.edu/pan/)
+We do Sanger sequencing through the [Azenta](https://www.azenta.com/)
